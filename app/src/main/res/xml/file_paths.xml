@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:an-droid="http://schemas.android.com/apk/res/android">
+    <!--
+        /storage/emulated/0/Android/data/com.mobileappscompany.training.mycameraapp/files/Pictures/JPEG_20170128_214601_-1817226763.jpg
+    <external-files-path name="external-files_images" path="/Android/data/com.mobileappscompany.training.mycameraapp/files/Pictures/" />
+    <files-path name="files_images" path="/Android/data/com.mobileappscompany.training.mycameraapp/files/Pictures/" />
+    <cache-path name="cache_images" path="/Android/data/com.mobileappscompany.training.mycameraapp/files/Pictures/" />
+    <external-cache-path name="external_cache_images" path="/Android/data/com.mobileappscompany.training.mycameraapp/files/Pictures/" />
+    <external-path name="my_images" path="/Android/data/com.mobileappscompany.training.mycameraapp/files/Pictures/" />
+    -->
+
+
+    <external-files-path name="default_external-files_images" path="/DCIM/" />
+    <files-path name="default_files_images" path="/DCIM/" />
+    <cache-path name="default_cache_images" path="/DCIM/" />
+    <external-cache-path name="default_external_cache_images" path="/DCIM/" />
+    <external-path name="default_images" path="/DCIM/" />
+</paths>
